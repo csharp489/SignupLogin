@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root type="DrawingPage" objectID="1" ClassID="3001803899" designMode="True" name="Form4" guid="188f2735-cf38-4d37-bcad-9b21650e8ad7" filename="C:\Users\rishabh\OneDrive\Desktop\application\WinFormApp24\Form4.limnor" width0="899" width1="51" width2="98">
+  <Actions />
+  <EventPath width="704" height="692" type="EventPathData">
+    <Property name="ComponentIconList">
+      <Item type="ComponentIconEvent" ClassID="3001803899" objectID="1">
+        <Location>20, 20</Location>
+        <RelativePosition type="Point" xTo0="True" yTo0="True">-20, 20</RelativePosition>
+      </Item>
+      <Item type="ComponentIconEvent" ClassID="3001803899" objectID="8">
+        <Location>90, 42</Location>
+        <RelativePosition type="Point" xTo0="True" yTo0="True">-20, 20</RelativePosition>
+      </Item>
+      <Item type="ComponentIconEvent" ClassID="3001803899" objectID="2">
+        <Location>53, 108</Location>
+        <RelativePosition type="Point" xTo0="True" yTo0="True">-20, 20</RelativePosition>
+      </Item>
+      <Item type="ComponentIconEvent" ClassID="3001803899" objectID="3">
+        <Location>44, 96</Location>
+        <RelativePosition type="Point" xTo0="True" yTo0="True">-20, 20</RelativePosition>
+      </Item>
+    </Property>
+  </EventPath>
+  <Types>
+    <Item fullTypeName="System.Windows.Forms.FolderBrowserDialog, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" type="FolderBrowserDialog" />
+    <Item fullTypeName="System.IO.FileSystemWatcher, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" type="FileSystemWatcher" />
+    <Item fullTypeName="System.Windows.Forms.DataGridTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" type="DataGridTextBox" />
+    <Item fullTypeName="System.Windows.Forms.HScrollBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" type="HScrollBar" />
+    <Item fullTypeName="System.Windows.Forms.MaskedTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" type="MaskedTextBox" />
+    <Item fullTypeName="System.Windows.Forms.OpenFileDialog, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" type="OpenFileDialog" />
+    <Item fullTypeName="System.DirectoryServices.DirectoryEntry, System.DirectoryServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" type="DirectoryEntry" />
+    <Item fullTypeName="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" type="ToolStripMenuItem" />
+    <Item fullTypeName="System.Windows.Forms.Design.ToolStripMenuItemCodeDomSerializer, System.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" type="ToolStripMenuItemCodeDomSerializer" />
+    <Item fullTypeName="System.Drawing.SystemColors, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" type="SystemColors" />
+    <Item fullTypeName="System.Windows.Forms.ContextMenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" type="ContextMenuStrip" />
+    <Item fullTypeName="System.Windows.Forms.Design.ToolStripCodeDomSerializer, System.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" type="ToolStripCodeDomSerializer" />
+    <Item fullTypeName="System.ComponentModel.IContainer, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" type="IContainer" />
+    <Item fullTypeName="System.ComponentModel.Container, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" type="Container" />
+    <Item fullTypeName="System.Windows.Forms.ToolStripItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" type="ToolStripItem" />
+    <Item fullTypeName="System.Windows.Forms.ContainerControl, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" type="ContainerControl" />
+  </Types>
+  <Property name="DrawingLayerList">
+    <Item type="DrawingLayerHeader">
+      <Property name="LayerId">cad5062e-a2f2-484d-ad09-ff6e45a43bcb</Property>
+      <Property name="Name">Layer1</Property>
+    </Item>
+  </Property>
+  <Property name="ClientSize">282, 257</Property>
+  <Property name="Text">Form4</Property>
+  <Property name="AutoScaleDimensions">6, 13</Property>
+  <Property name="Name">Form4</Property>
+  <Property name="PageAttributes">
+    <Property name="ShowPrintPageEdges">False</Property>
+    <Property name="PrinterDPI_X">96</Property>
+    <Property name="PrinterDPI_Y">96</Property>
+    <Property name="Width">210</Property>
+    <Property name="Height">297</Property>
+  </Property>
+  <Property name="Controls">
+    <Item type="TextBox" objectID="2" designMode="True" name="TextBox1">
+      <Property name="Location">71, 214</Property>
+      <Property name="Name">TextBox1</Property>
+      <Property name="Size">100, 20</Property>
+      <Property name="TabIndex">0</Property>
+      <Property name="AutoCompleteCustomSource">
+        <Item type="string">3-4 70</Item>
+        <Item type="string">8-9 90</Item>
+      </Property>
+    </Item>
+    <Item type="EasyDetailsGrid" objectID="3" designMode="True" name="EasyGridDetail1">
+      <Property name="TableName">Table920273386</Property>
+      <Property name="SqlTop">0</Property>
+      <Property name="ColumnHeadersHeightSizeMode">AutoSize</Property>
+      <Property name="Location">12, 44</Property>
+      <Property name="Name">EasyGridDetail1</Property>
+      <Property name="Size">240, 150</Property>
+      <Property name="TabIndex">1</Property>
+      <Property name="RowTemplate">
+        <Property name="DefaultCellStyle" />
+      </Property>
+    </Item>
+  </Property>
+  <External type="TypePointerCollection">
+    <Type type="MessageBox" />
+  </External>
+</Root>

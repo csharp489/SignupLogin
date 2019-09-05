@@ -1,0 +1,15 @@
+<Project activeConfig="Release" isNotNew="True">
+  <VobGroup traceLevel="0">
+    <ProjectGuid>69024f9c-b0b6-4091-8a81-ab2d3ca3912d</ProjectGuid>
+    <AssemblyFileVersion version="1.0.0.12" />
+  </VobGroup>
+  <ModifiedClasses>
+  </ModifiedClasses>
+  <Toolbox>
+    <Item type="MessageBox" />
+    <Item type="Environment" />
+  </Toolbox>
+  <DbConnections>
+    <Item guid="50dc8941-d656-4888-9c35-65ce28a08610" />
+  </DbConnections>
+</Project>
